@@ -1,0 +1,6 @@
+flat_teaching.Rmd:
+  path: dev/flat_teaching.Rmd
+  state: active
+  R: R/add_one.R
+  tests: tests/testthat/test-add_one.R
+  vignettes: vignettes/get-started.Rmd
